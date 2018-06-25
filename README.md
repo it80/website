@@ -9,3 +9,7 @@ https://gifrun.com/youtube
 
 gif压缩（墙内）
 http://www.soogif.com/video
+
+
+###### 缩短网址
+https://bitly.com/
